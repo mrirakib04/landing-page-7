@@ -1,10 +1,10 @@
 import "./App.css";
-import Categories from "./components/Categories";
-import Footer from "./components/Footer";
 import Header from "./components/Header";
-import Newsletter from "./components/Newsletter";
-import Price from "./components/Price";
+import Categories from "./components/Categories";
 import Trending from "./components/Trending";
+import Price from "./components/Price";
+import Newsletter from "./components/Newsletter";
+import Footer from "./components/Footer";
 
 function App() {
   return (
