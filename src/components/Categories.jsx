@@ -8,7 +8,9 @@ import other from "./../assets/img/mouse-cartoon.png";
 const Categories = () => {
   return (
     <div className="w-full md:px-10 px-5 md:py-20 py-10 flex flex-col gap-5">
-      <h2 className="text-3xl font-semibold">Browse by Categories</h2>
+      <h2 className="md:text-3xl text-2xl font-semibold">
+        Browse by Categories
+      </h2>
       <div className="w-full grid lg:grid-cols-6 md:grid-cols-5 sm:grid-cols-4 grid-cols-2 gap-3">
         <div className="w-full py-10 px-5 flex flex-col gap-1 items-center bg-[#F9DF8A] rounded-lg">
           <img
