@@ -29,7 +29,7 @@ const Trending = () => {
         </div>
         <div className="p-3 col-span-1 bg-white rounded-xl shadow-lg flex items-center gap-1">
           <img
-            className="md:max-h-16 max-h-12 h-full md:max-w-16 max-w-12 w-full object-cover sm:p-3 p-2 rounded-lg bg-[#FFF9F4]"
+            className="md:max-h-16 max-h-10 h-full md:max-w-16 max-w-10 w-full object-cover sm:p-3 p-1 rounded-lg bg-[#FFF9F4]"
             src={bed}
             alt="bed"
           />
@@ -38,13 +38,13 @@ const Trending = () => {
               <FaStar className="text-lg text-yellow-500"></FaStar>
               4.5
             </p>
-            <h4 className="md:text-lg text-base font-medium">Bed</h4>
+            <h4 className="md:text-lg text-sm font-medium">Bed</h4>
             <p className="font-medium text-gray-700">$20</p>
           </div>
         </div>
         <div className="p-3 col-span-1 bg-white rounded-xl shadow-lg flex items-center gap-1">
           <img
-            className="md:max-h-16 max-h-12 h-full md:max-w-16 max-w-12 w-full object-cover sm:p-3 p-2 rounded-lg bg-[#FFF9F4]"
+            className="md:max-h-16 max-h-10 h-full md:max-w-16 max-w-10 w-full object-cover sm:p-3 p-1 rounded-lg bg-[#FFF9F4]"
             src={BlackShoe}
             alt="BlackShoe"
           />
@@ -53,13 +53,13 @@ const Trending = () => {
               <FaStar className="text-lg text-yellow-500"></FaStar>
               4.5
             </p>
-            <h4 className="md:text-lg text-base font-medium">WhiteShoe</h4>
+            <h4 className="md:text-lg text-sm font-medium">WhiteShoe</h4>
             <p className="font-medium text-gray-700">$20</p>
           </div>
         </div>
         <div className="p-3 col-span-1 bg-white rounded-xl shadow-lg flex items-center gap-1">
           <img
-            className="md:max-h-16 max-h-12 h-full md:max-w-16 max-w-12 w-full object-cover sm:p-3 p-2 rounded-lg bg-[#FFF9F4]"
+            className="md:max-h-16 max-h-10 h-full md:max-w-16 max-w-10 w-full object-cover sm:p-3 p-1 rounded-lg bg-[#FFF9F4]"
             src={WhiteShoe}
             alt="WhiteShoe"
           />
@@ -68,13 +68,13 @@ const Trending = () => {
               <FaStar className="text-lg text-yellow-500"></FaStar>
               4.5
             </p>
-            <h4 className="md:text-lg text-base font-medium">BlackShoe</h4>
+            <h4 className="md:text-lg text-sm font-medium">BlackShoe</h4>
             <p className="font-medium text-gray-700">$20</p>
           </div>
         </div>
         <div className="p-3 col-span-1 bg-white rounded-xl shadow-lg flex items-center gap-1">
           <img
-            className="md:max-h-16 max-h-12 h-full md:max-w-16 max-w-12 w-full object-cover sm:p-3 p-2 rounded-lg bg-[#FFF9F4]"
+            className="md:max-h-16 max-h-10 h-full md:max-w-16 max-w-10 w-full object-cover sm:p-3 p-1 rounded-lg bg-[#FFF9F4]"
             src={WhiteShoe}
             alt="WhiteShoe"
           />
@@ -83,13 +83,13 @@ const Trending = () => {
               <FaStar className="text-lg text-yellow-500"></FaStar>
               4.5
             </p>
-            <h4 className="md:text-lg text-base font-medium">BlackShoe</h4>
+            <h4 className="md:text-lg text-sm font-medium">BlackShoe</h4>
             <p className="font-medium text-gray-700">$20</p>
           </div>
         </div>
         <div className="p-3 col-span-1 bg-white rounded-xl shadow-lg flex items-center gap-1">
           <img
-            className="md:max-h-16 max-h-12 h-full md:max-w-16 max-w-12 w-full object-cover sm:p-3 p-2 rounded-lg bg-[#FFF9F4]"
+            className="md:max-h-16 max-h-10 h-full md:max-w-16 max-w-10 w-full object-cover sm:p-3 p-1 rounded-lg bg-[#FFF9F4]"
             src={BlackShoe}
             alt="BlackShoe"
           />
@@ -98,13 +98,13 @@ const Trending = () => {
               <FaStar className="text-lg text-yellow-500"></FaStar>
               4.5
             </p>
-            <h4 className="md:text-lg text-base font-medium">WhiteShoe</h4>
+            <h4 className="md:text-lg text-sm font-medium">WhiteShoe</h4>
             <p className="font-medium text-gray-700">$20</p>
           </div>
         </div>
         <div className="p-3 col-span-1 bg-white rounded-xl shadow-lg flex items-center gap-1">
           <img
-            className="md:max-h-16 max-h-12 h-full md:max-w-16 max-w-12 w-full object-cover sm:p-3 p-2 rounded-lg bg-[#FFF9F4]"
+            className="md:max-h-16 max-h-10 h-full md:max-w-16 max-w-10 w-full object-cover sm:p-3 p-1 rounded-lg bg-[#FFF9F4]"
             src={bed}
             alt="bed"
           />
@@ -113,13 +113,13 @@ const Trending = () => {
               <FaStar className="text-lg text-yellow-500"></FaStar>
               4.5
             </p>
-            <h4 className="md:text-lg text-base font-medium">Bed</h4>
+            <h4 className="md:text-lg text-sm font-medium">Bed</h4>
             <p className="font-medium text-gray-700">$20</p>
           </div>
         </div>
         <div className="p-3 lg:col-span-1 bg-white rounded-xl shadow-lg flex items-center gap-1">
           <img
-            className="md:max-h-16 max-h-12 h-full md:max-w-16 max-w-12 w-full object-cover sm:p-3 p-2 rounded-lg bg-[#FFF9F4]"
+            className="md:max-h-16 max-h-10 h-full md:max-w-16 max-w-10 w-full object-cover sm:p-3 p-1 rounded-lg bg-[#FFF9F4]"
             src={BlackShoe}
             alt="BlackShoe"
           />
@@ -128,13 +128,13 @@ const Trending = () => {
               <FaStar className="text-lg text-yellow-500"></FaStar>
               4.5
             </p>
-            <h4 className="md:text-lg text-base font-medium">Shoe</h4>
+            <h4 className="md:text-lg text-sm font-medium">Shoe</h4>
             <p className="font-medium text-gray-700">$20</p>
           </div>
         </div>
         <div className="p-3 lg:col-span-1 bg-white rounded-xl shadow-lg flex items-center gap-1">
           <img
-            className="md:max-h-16 max-h-12 h-full md:max-w-16 max-w-12 w-full object-cover sm:p-3 p-2 rounded-lg bg-[#FFF9F4]"
+            className="md:max-h-16 max-h-10 h-full md:max-w-16 max-w-10 w-full object-cover sm:p-3 p-1 rounded-lg bg-[#FFF9F4]"
             src={bed}
             alt="bed"
           />
@@ -143,13 +143,13 @@ const Trending = () => {
               <FaStar className="text-lg text-yellow-500"></FaStar>
               4.5
             </p>
-            <h4 className="md:text-lg text-base font-medium">Pet bed</h4>
+            <h4 className="md:text-lg text-sm font-medium">Pet bed</h4>
             <p className="font-medium text-gray-700">$20</p>
           </div>
         </div>
         <div className="lg:flex hidden p-3 lg:col-span-1 bg-white rounded-xl shadow-lg items-center gap-1">
           <img
-            className="md:max-h-16 max-h-12 h-full md:max-w-16 max-w-12 w-full object-cover sm:p-3 p-2 rounded-lg bg-[#FFF9F4]"
+            className="md:max-h-16 max-h-10 h-full md:max-w-16 max-w-10 w-full object-cover sm:p-3 p-1 rounded-lg bg-[#FFF9F4]"
             src={WhiteShoe}
             alt="WhiteShoe"
           />
@@ -158,7 +158,7 @@ const Trending = () => {
               <FaStar className="text-lg text-yellow-500"></FaStar>
               4.5
             </p>
-            <h4 className="md:text-lg text-base font-medium">Pet Shoe</h4>
+            <h4 className="md:text-lg text-sm font-medium">Pet Shoe</h4>
             <p className="font-medium text-gray-700">$20</p>
           </div>
         </div>
