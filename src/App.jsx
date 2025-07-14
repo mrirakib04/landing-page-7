@@ -13,7 +13,7 @@ function App() {
       <Categories></Categories>
       <Trending></Trending>
       <Price></Price>
-      <div className="w-full bg-[#FFDC26]/50 flex flex-col items-center">
+      <div className="w-full bg-[#FFDC26]/50 flex flex-col items-center pt-40 md:mt-40 mt-96 relative">
         <Newsletter></Newsletter>
         <Footer></Footer>
       </div>
